@@ -1,15 +1,45 @@
 <div align="center">
+
+#  CSE STUDENT • ML ENTHUSIAST • OPEN SOURCE CONTRIBUTOR
+
+</div>
+
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0D1C,50:1B1030,100:0A0D1C&height=230&section=header&text=Sourabh%20Verma&fontSize=52&fontColor=FF8552&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%2F%20ML%20%7C%20Space%20Tech&descAlignY=58&descSize=18&descColor=9B8CFF&animation=fadeIn" width="100%" alt="header"/>
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=2800&pause=900&color=5FE1C9&center=true&vCenter=true&width=650&lines=Building+intelligent+systems%2C+one+orbit+at+a+time;CSE+student+%40+KIET+Group+of+Institutions;Machine+Learning+%7C+Data+Science+%7C+DSA;Exploring+AI+for+space+%26+orbital+debris;GSSoC+contributor+%7C+Hackathon+builder" alt="typing-svg" />
 <br/>
 <a href="https://sourabh-portfolio-link.example.com"><img src="https://img.shields.io/badge/Portfolio-0A0D1C?style=for-the-badge&logo=firefox&logoColor=FF8552" /></a>
-<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A0D1C?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0A0D1C?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-<a href="https://github.com/CODE-BUG25"><img src="https://img.shields.io/badge/GitHub-0A0D1C?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sourabh-verma-0b480036b/"><img src="https://img.shields.io/badge/LINKEDIN-Sourabh%20Verma-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sverma25072006@gmail.com"><img src="https://img.shields.io/badge/Email-0A0D1C?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://github.com/CODE-BUG25"><img src="https://img.shields.io/badge/GITHUB-CODE--BUG25-FF6B9D?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=CODE-BUG25&label=Profile%20Views&color=9B8CFF&style=for-the-badge" alt="profile views"/>
 </div>
 <br/>
+
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I'm+Sourabh+%F0%9F%91%8B;CSE+Student+%40+KIET;Open+Source+Contributor+%40+GSSoC;ML+%2F+DS+%2F+DSA+Learner;Space+Tech+Enthusiast+%F0%9F%9A%80&font=Fira%20Code&center=true&width=600&height=45&color=A855F7&vCenter=true&size=22&pause=1500"/>
+</div>
+
+
+---
+
+<h2 align="center">👋 Hi, I'm Sourabh Verma</h2>
+
+<p align="center">
+💜 Learning ML/DS Step-by-Step • Building in Public • Contributing to Open Source
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CODE-BUG25&label=PROFILE+VIEWS&color=FF6B9D&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/CODE-BUG25?label=FOLLOWERS&style=for-the-badge&color=A855F7"/>
+  <img src="https://img.shields.io/github/stars/CODE-BUG25?label=STARS&style=for-the-badge&color=3B82F6"/>
+</p>
+
+---
+
 🛰️ About Me
 
 I'm a Computer Science & Engineering student at KIET Group of Institutions, and I don't consider myself someone who already knows everything — I'm someone who genuinely enjoys learning hard things and building expertise through consistency.
@@ -56,16 +86,29 @@ Rust — new language, still early
 </tr>
 </table>
 <br/>
-🛠️ Tech Stack
 
-Languages
+---
+
+## 🧠 Tech Universe
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,git,github,vscode,mysql,linux&theme=dark" />
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+
+## Languages
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-Machine Learning & Data
+
+## Machine Learning & Data
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -73,19 +116,22 @@ Machine Learning & Data
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-Web
+
+## Web
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white"/>
 <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
-Tools
+
+## Tools
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-CAD & Electronics
+
+## CAD & Electronics
 
 <img src="https://img.shields.io/badge/Fusion%20360-F7931E?style=for-the-badge&logo=autodesk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Autodesk%20Inventor-000000?style=for-the-badge&logo=autodesk&logoColor=white"/>
@@ -119,6 +165,29 @@ This graph is generated automatically by a GitHub Action — see the setup note 
 <img src="https://github-profile-trophy.vercel.app/?username=CODE-BUG25&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="95%"/>
 </div>
 <br/>
+
+---
+
+## 💻 Terminal
+
+```bash
+> who am I
+Sourabh Verma
+
+> title
+CSE Student • ML Learner • Open Source Contributor
+
+> mission
+Learn. Build. Share. Grow.
+
+> status
+Building, learning, launching 🚀
+
+> current_mood
+Coffee + Code + Curiosity ☕
+```
+
+---
 🚀 Mission Log — Featured Projects
 
 <table>
