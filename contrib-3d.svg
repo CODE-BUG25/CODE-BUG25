@@ -1,0 +1,145 @@
+<svg width="940" height="460" viewBox="0 0 940 460" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bgGrad3d" cx="50%" cy="25%" r="85%">
+      <stop offset="0%" stop-color="#1a1035"/>
+      <stop offset="60%" stop-color="#0d0821"/>
+      <stop offset="100%" stop-color="#05030f"/>
+    </radialGradient>
+
+    <linearGradient id="topPink" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffd6e8"/><stop offset="100%" stop-color="#ff6b9d"/>
+    </linearGradient>
+    <linearGradient id="topPurple" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e2c9ff"/><stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="topBlue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#bfe0ff"/><stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+
+    <linearGradient id="leftPink" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e0507f"/><stop offset="100%" stop-color="#a83b60"/>
+    </linearGradient>
+    <linearGradient id="leftPurple" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#8a3fd1"/><stop offset="100%" stop-color="#642e99"/>
+    </linearGradient>
+    <linearGradient id="leftBlue" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2f68d6"/><stop offset="100%" stop-color="#204a9c"/>
+    </linearGradient>
+
+    <linearGradient id="rightPink" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ff85ac"/><stop offset="100%" stop-color="#d9587f"/>
+    </linearGradient>
+    <linearGradient id="rightPurple" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#b872f5"/><stop offset="100%" stop-color="#8f4cd1"/>
+    </linearGradient>
+    <linearGradient id="rightBlue" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6ea3ff"/><stop offset="100%" stop-color="#4a78d6"/>
+    </linearGradient>
+
+    <style>
+      .bar { animation: rise 1s cubic-bezier(.2,.9,.3,1) both; }
+      @keyframes rise { 0% { opacity:0; transform: translateY(14px); } 100% { opacity:1; transform: translateY(0); } }
+      .label { font-family:'Segoe UI',Verdana,sans-serif; fill:#cbb8ff; font-size:12px; opacity:0.85; }
+      .valLabel { font-family:'Segoe UI',Verdana,sans-serif; fill:#ffffff; font-size:12px; font-weight:600; }
+      .title { font-family:'Segoe UI',Verdana,sans-serif; fill:#ffffff; font-size:21px; font-weight:700; }
+      .subtitle { font-family:'Segoe UI',Verdana,sans-serif; fill:#cbb8ff; font-size:12px; opacity:0.75; }
+      .twk { animation: tw 2.6s ease-in-out infinite; }
+      .twk2 { animation: tw 3.4s ease-in-out infinite 0.8s; }
+      @keyframes tw { 0%,100%{opacity:.15} 50%{opacity:.9} }
+    </style>
+  </defs>
+
+  <rect width="940" height="460" fill="url(#bgGrad3d)"/>
+
+  <g fill="#ffffff">
+    <circle class="twk" cx="40" cy="30" r="1.3"/>
+    <circle class="twk2" cx="900" cy="45" r="1.3"/>
+    <circle class="twk" cx="860" cy="90" r="1"/>
+    <circle class="twk2" cx="60" cy="80" r="1"/>
+    <circle class="twk" cx="910" cy="150" r="1.2"/>
+    <circle class="twk2" cx="25" cy="180" r="1"/>
+    <circle class="twk" cx="30" cy="250" r="1.1"/>
+    <circle class="twk2" cx="905" cy="260" r="1.1"/>
+  </g>
+
+  <text x="470" y="42" text-anchor="middle" class="title">📊 Weekly Contribution Skyline</text>
+  <text x="470" y="64" text-anchor="middle" class="subtitle">isometric 3D view • last 12 weeks</text>
+
+  <line x1="70" y1="370" x2="870" y2="370" stroke="#ffffff" stroke-opacity="0.12" stroke-width="1"/>
+
+  
+  <g class="bar" style="animation-delay:0.05s">
+    <path d="M90.0,330.0 L124.0,347.0 L124.0,387.0 L90.0,370.0 Z" fill="url(#leftPink)"/>
+    <path d="M158.0,330.0 L124.0,347.0 L124.0,387.0 L158.0,370.0 Z" fill="url(#rightPink)"/>
+    <path d="M124.0,313.0 L158.0,330.0 L124.0,347.0 L90.0,330.0 Z" fill="url(#topPink)"/>
+    <text x="124.0" y="305.0" text-anchor="middle" class="valLabel">4</text>
+  </g>
+  <g class="bar" style="animation-delay:0.12s">
+    <path d="M184.0,300.0 L218.0,317.0 L218.0,387.0 L184.0,370.0 Z" fill="url(#leftPurple)"/>
+    <path d="M252.0,300.0 L218.0,317.0 L218.0,387.0 L252.0,370.0 Z" fill="url(#rightPurple)"/>
+    <path d="M218.0,283.0 L252.0,300.0 L218.0,317.0 L184.0,300.0 Z" fill="url(#topPurple)"/>
+    <text x="218.0" y="275.0" text-anchor="middle" class="valLabel">7</text>
+  </g>
+  <g class="bar" style="animation-delay:0.19s">
+    <path d="M278.0,340.0 L312.0,357.0 L312.0,387.0 L278.0,370.0 Z" fill="url(#leftBlue)"/>
+    <path d="M346.0,340.0 L312.0,357.0 L312.0,387.0 L346.0,370.0 Z" fill="url(#rightBlue)"/>
+    <path d="M312.0,323.0 L346.0,340.0 L312.0,357.0 L278.0,340.0 Z" fill="url(#topBlue)"/>
+    <text x="312.0" y="315.0" text-anchor="middle" class="valLabel">3</text>
+  </g>
+  <g class="bar" style="animation-delay:0.26s">
+    <path d="M372.0,280.0 L406.0,297.0 L406.0,387.0 L372.0,370.0 Z" fill="url(#leftPink)"/>
+    <path d="M440.0,280.0 L406.0,297.0 L406.0,387.0 L440.0,370.0 Z" fill="url(#rightPink)"/>
+    <path d="M406.0,263.0 L440.0,280.0 L406.0,297.0 L372.0,280.0 Z" fill="url(#topPink)"/>
+    <text x="406.0" y="255.0" text-anchor="middle" class="valLabel">9</text>
+  </g>
+  <g class="bar" style="animation-delay:0.33s">
+    <path d="M466.0,250.0 L500.0,267.0 L500.0,387.0 L466.0,370.0 Z" fill="url(#leftPurple)"/>
+    <path d="M534.0,250.0 L500.0,267.0 L500.0,387.0 L534.0,370.0 Z" fill="url(#rightPurple)"/>
+    <path d="M500.0,233.0 L534.0,250.0 L500.0,267.0 L466.0,250.0 Z" fill="url(#topPurple)"/>
+    <text x="500.0" y="225.0" text-anchor="middle" class="valLabel">12</text>
+  </g>
+  <g class="bar" style="animation-delay:0.40s">
+    <path d="M560.0,310.0 L594.0,327.0 L594.0,387.0 L560.0,370.0 Z" fill="url(#leftBlue)"/>
+    <path d="M628.0,310.0 L594.0,327.0 L594.0,387.0 L628.0,370.0 Z" fill="url(#rightBlue)"/>
+    <path d="M594.0,293.0 L628.0,310.0 L594.0,327.0 L560.0,310.0 Z" fill="url(#topBlue)"/>
+    <text x="594.0" y="285.0" text-anchor="middle" class="valLabel">6</text>
+  </g>
+  <g class="bar" style="animation-delay:0.47s">
+    <path d="M654.0,220.0 L688.0,237.0 L688.0,387.0 L654.0,370.0 Z" fill="url(#leftPink)"/>
+    <path d="M722.0,220.0 L688.0,237.0 L688.0,387.0 L722.0,370.0 Z" fill="url(#rightPink)"/>
+    <path d="M688.0,203.0 L722.0,220.0 L688.0,237.0 L654.0,220.0 Z" fill="url(#topPink)"/>
+    <text x="688.0" y="195.0" text-anchor="middle" class="valLabel">15</text>
+  </g>
+  <g class="bar" style="animation-delay:0.54s">
+    <path d="M748.0,290.0 L782.0,307.0 L782.0,387.0 L748.0,370.0 Z" fill="url(#leftPurple)"/>
+    <path d="M816.0,290.0 L782.0,307.0 L782.0,387.0 L816.0,370.0 Z" fill="url(#rightPurple)"/>
+    <path d="M782.0,273.0 L816.0,290.0 L782.0,307.0 L748.0,290.0 Z" fill="url(#topPurple)"/>
+    <text x="782.0" y="265.0" text-anchor="middle" class="valLabel">8</text>
+  </g>
+  <g class="bar" style="animation-delay:0.61s">
+    <path d="M842.0,320.0 L876.0,337.0 L876.0,387.0 L842.0,370.0 Z" fill="url(#leftBlue)"/>
+    <path d="M910.0,320.0 L876.0,337.0 L876.0,387.0 L910.0,370.0 Z" fill="url(#rightBlue)"/>
+    <path d="M876.0,303.0 L910.0,320.0 L876.0,337.0 L842.0,320.0 Z" fill="url(#topBlue)"/>
+    <text x="876.0" y="295.0" text-anchor="middle" class="valLabel">5</text>
+  </g>
+  <g class="bar" style="animation-delay:0.68s">
+    <path d="M936.0,260.0 L970.0,277.0 L970.0,387.0 L936.0,370.0 Z" fill="url(#leftPink)"/>
+    <path d="M1004.0,260.0 L970.0,277.0 L970.0,387.0 L1004.0,370.0 Z" fill="url(#rightPink)"/>
+    <path d="M970.0,243.0 L1004.0,260.0 L970.0,277.0 L936.0,260.0 Z" fill="url(#topPink)"/>
+    <text x="970.0" y="235.0" text-anchor="middle" class="valLabel">11</text>
+  </g>
+  <g class="bar" style="animation-delay:0.75s">
+    <path d="M1030.0,190.0 L1064.0,207.0 L1064.0,387.0 L1030.0,370.0 Z" fill="url(#leftPurple)"/>
+    <path d="M1098.0,190.0 L1064.0,207.0 L1064.0,387.0 L1098.0,370.0 Z" fill="url(#rightPurple)"/>
+    <path d="M1064.0,173.0 L1098.0,190.0 L1064.0,207.0 L1030.0,190.0 Z" fill="url(#topPurple)"/>
+    <text x="1064.0" y="165.0" text-anchor="middle" class="valLabel">18</text>
+  </g>
+  <g class="bar" style="animation-delay:0.82s">
+    <path d="M1124.0,150.0 L1158.0,167.0 L1158.0,387.0 L1124.0,370.0 Z" fill="url(#leftBlue)"/>
+    <path d="M1192.0,150.0 L1158.0,167.0 L1158.0,387.0 L1192.0,370.0 Z" fill="url(#rightBlue)"/>
+    <path d="M1158.0,133.0 L1192.0,150.0 L1158.0,167.0 L1124.0,150.0 Z" fill="url(#topBlue)"/>
+    <text x="1158.0" y="125.0" text-anchor="middle" class="valLabel">22</text>
+  </g>
+
+  <text x="124.0" y="396" text-anchor="middle" class="label">W1</text><text x="218.0" y="396" text-anchor="middle" class="label">W2</text><text x="312.0" y="396" text-anchor="middle" class="label">W3</text><text x="406.0" y="396" text-anchor="middle" class="label">W4</text><text x="500.0" y="396" text-anchor="middle" class="label">W5</text><text x="594.0" y="396" text-anchor="middle" class="label">W6</text><text x="688.0" y="396" text-anchor="middle" class="label">W7</text><text x="782.0" y="396" text-anchor="middle" class="label">W8</text><text x="876.0" y="396" text-anchor="middle" class="label">W9</text><text x="970.0" y="396" text-anchor="middle" class="label">W10</text><text x="1064.0" y="396" text-anchor="middle" class="label">W11</text><text x="1158.0" y="396" text-anchor="middle" class="label">W12</text>
+</svg>
