@@ -28,9 +28,6 @@
 
 <h2 align="center">👋 Hi, I'm Sourabh Verma</h2>
 
-<p align="center">
-💜 Learning ML/DS Step-by-Step • Building in Public • Contributing to Open Source
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CODE-BUG25&label=PROFILE+VIEWS&color=FF6B9D&style=for-the-badge"/>
@@ -38,56 +35,74 @@
   <img src="https://img.shields.io/github/stars/CODE-BUG25?label=STARS&style=for-the-badge&color=3B82F6"/>
 </p>
 
+<div align="center">
+
+🎓 **CSE STUDENT @ KIET GROUP OF INSTITUTIONS**
+
+Learning machine learning and data science the deep way — one concept at a time, no shortcuts.
+
+_Some things I'm proud of right now:_
+
+<img src="https://img.shields.io/badge/GSSoC-Open%20Source%20Contributor-FF6B9D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KIET-CSE%20Student-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML%20%2F%20DS-Learner-3B82F6?style=for-the-badge"/>
+
+</div>
+
 ---
 
-🛰️ About Me
+## 🧭 About Me
 
-I'm a Computer Science & Engineering student at KIET Group of Institutions, and I don't consider myself someone who already knows everything — I'm someone who genuinely enjoys learning hard things and building expertise through consistency.
+```yaml
+Name: Sourabh Verma
+Role:
+  - CSE Student, KIET Group of Institutions
+  - Open Source Contributor (GSSoC)
+  - ML & Data Science Learner
 
-My journey didn't start with mastery. It started with small, frustrating errors in Python, Git, and Pandas that I refused to walk away from. Instead of memorizing fixes, I built a habit of asking why until the mistake made sense — and that's still how I learn everything today.
+Focus:
+  - Machine Learning & Data Science
+  - Data Structures & Algorithms
+  - Space Technology
+  - Entrepreneurship
+
+Mission: >
+  Learn deeply, build honestly, and turn
+  curiosity into real, working projects.
+
+Status: Always Learning 🚀
+```
+
+---
+
+## ⚡ Coder In Action
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/e3/57/7c/e3577c0dbda0e1d853f4c7ac50aa2915.gif" width="48%"/>
+   <img src="https://media.cheggcdn.com/media/64d/64d144ac-0e6a-468f-9864-5dfb36df6dee/phpKSRubE" width="48%"/>
+  </div>
 
 
-🔭 Currently deep in Machine Learning, following the CampusX roadmap topic by topic
-🧠 Fascinated by how AI intersects with space technology — satellites, orbital mechanics, debris tracking
-🌱 Learning Rust, and sharpening my DSA fundamentals
-🤝 Contributing to open source through GSSoC
-⚡ Building things I'd actually want to use, not just assignments
-🚀 Long-term goal: become an engineer who blends software engineering, AI, and product thinking
 
+---
 
-<br/>
-🧭 What I'm Learning Right Now
+## 🚀 What I Love Building
 
-<table>
+<table align="center">
 <tr>
-<td valign="top" width="50%">
-Machine Learning (CampusX roadmap)
-
-
-Data preprocessing & missing values
-One-Hot / Ordinal / Label Encoding
-Feature Scaling — Standardization & Normalization
-Exploratory Data Analysis
-Model building & evaluation
-
-
-</td>
-<td valign="top" width="50%">
-Foundations
-
-
-Data Structures & Algorithms — brute force → optimized
-Software Engineering — frontend ↔ backend ↔ APIs ↔ DB
-Web Development — toward full-stack, AI-powered apps
-Rust — new language, still early
-
-
-</td>
+<td align="center">🤖<br/><b>ML Projects</b></td>
+<td align="center">📊<br/><b>Data Science</b></td>
+<td align="center">🧩<br/><b>DSA Practice</b></td>
+</tr>
+<tr>
+<td align="center">🛰️<br/><b>Space Tech Explorations</b></td>
+<td align="center">🌐<br/><b>Web Projects</b></td>
+<td align="center">🛠️<br/><b>Open Source</b></td>
 </tr>
 </table>
-<br/>
 
 ---
+
 
 ## 🧠 Tech Universe
 
